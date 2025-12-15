@@ -53,7 +53,11 @@ The objective of this project is to analyze and visualize Airbnb listings in New
 
 ## 📸 Dashboard Preview
 
-A preview screenshot of the dashboard is included in this repository to showcase the layout and visualizations.
+### Main Sheet:
+![Main Dashboard](MainDashboard.png)
+
+### Visuals to represent the selection:
+![Visuals](DashboardVishuals.png)
 
 
 
