@@ -57,7 +57,7 @@ The objective of this project is to analyze and visualize Airbnb listings in New
 ![Main Dashboard](MainDashboard.png)
 
 ### Visuals to represent the selection:
-![Visuals](DashboardVishuals.png)
+![Visuals](DashboardVisuals.png)
 
 
 
